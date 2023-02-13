@@ -43,6 +43,7 @@ Not yet.Check technical information to run the project.
 This project uses:
 - Kotlin
 - kotlin Gradle Build System
+the Architecture of this project can be found in the [architecture doc](https://github.com/tamzi/tragedy/blob/documentation/docs/architecture.md)
 
 #### Running the project
 
@@ -76,19 +77,19 @@ Add the various things that you are working on.
 I would love to have your help in making  **tragedy** better. The project is still very incomplete, 
 but if there's an issue you'd like to see addressed sooner rather than later, let me know.
 
-Before you contribute though read the contributing guide here: [Contributing.md{edit this}](https://github.com/YourUserNameHere/ProjectName/contributing.md)
+Before you contribute though read the contributing guide here: [Contributing guidelines](https://github.com/tamzi/tragedy/blob/main/contributing.md)
 
-For any concerns, please open an [issue{edit this}](https://github.com/YourUserNameHere/ProjectName/issues), and a 
-JUST, [fork the project and send a pull request{edit this}](https://github.com/YourUserNameHere/ProjectName/pulls).
+For any concerns, please open an [issue](https://github.com/tamzi/tragedy/issues), and a 
+JUST, [fork the project and send a pull request](https://github.com/tamzi/tragedy/pulls).
 
 
 <hr>
 
 ### License
-* see [LICENSE](https://github.com/YourUserNameHere/ProjectName/LICENSE.md) file
+* see [LICENSE](https://github.com/tamzi/tragedy/blob/main/LICENCE.md) file
 
 ### Versions
-* Version 0.0.1  DATE 19/01/2020 Doc []()
+* Version 0.0.1  DATE 19/01/2020 Doc [releases doc](https://github.com/tamzi/tragedy/blob/main/Releases.md)
 
 
 
